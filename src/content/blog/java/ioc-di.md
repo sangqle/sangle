@@ -8,6 +8,10 @@ featured: true
 draft: false
 tags:
   - docs
+  - java
+  - spring
+  - ioc
+  - di
 description:
   Learn what IoC (Inversion of Control) and DI (Dependency Injection) are, and how they work with real-world examples. Understand the benefits of IoC and how it's used in modern frameworks like Spring.
 ---

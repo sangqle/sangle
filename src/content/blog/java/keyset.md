@@ -1,15 +1,19 @@
 ---
 author: Sang Le
-pubDatetime: 2024-10-21T16:46:00Z
-modDatetime: 2024-10-21T16:46:00Z
-title: Keyset Pagination (Truy vấn theo Last ID) – Giải Pháp Tối Ưu Cho Dữ Liệu Lớn
-slug: keyset-pagination
+pubDatetime: 2024-09-23T15:22:00Z
+modDatetime: 2024-10-21T09:12:47.400Z
+title: IOC (Inversion of Control) and DI Explained with Easy-to-Understand Examples
+slug: keyset
 featured: true
-draft: false
+draft: true
 tags:
-  - docs, mysql, pagination
+  - docs
+  - java
+  - spring
+  - ioc
+  - di
 description:
-  Keyset Pagination (Truy vấn theo Last ID) là một phương pháp phân trang dữ liệu hiệu quả cho các bảng lớn. Bài viết này sẽ giải thích cách hoạt động của Keyset Pagination và cung cấp ví dụ cụ thể với MySQL.
+  Learn what IoC (Inversion of Control) and DI (Dependency Injection) are, and how they work with real-world examples. Understand the benefits of IoC and how it's used in modern frameworks like Spring.
 ---
 
 ### Keyset Pagination (Truy vấn theo Last ID) – Giải Pháp Tối Ưu Cho Dữ Liệu Lớn
