@@ -1,7 +1,7 @@
 ---
 author: Sang Le
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
+pubDatetime: 2024-09-23T15:22:00Z
+modDatetime: 2024-10-21T09:12:47.400Z
 title: IOC (Inversion of Control) and DI Explained with Easy-to-Understand Examples
 slug: ioc-di
 featured: true
@@ -9,8 +9,7 @@ draft: false
 tags:
   - docs
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  Learn what IoC (Inversion of Control) and DI (Dependency Injection) are, and how they work with real-world examples. Understand the benefits of IoC and how it's used in modern frameworks like Spring.
 ---
 
 **Giải Thích IoC (Inversion of Control) Bằng Ví Dụ Dễ Hiểu**
